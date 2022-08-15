@@ -4,7 +4,7 @@
 #include <PubSubClient.h>
 
 //Constantes - Conexão Wifi
-const char* ssid = "fog";
+const char* ssid = "fog2";
 const char* password = "projetofog";
 WiFiClient espClient;
 
